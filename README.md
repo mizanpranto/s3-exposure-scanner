@@ -73,7 +73,7 @@ python scan.py
   Your full name [Your Name]: Mizanur Rahman Pranto
   Your title: Cloud Security Consultant
   Your email: mprantox41@gmail.com
-  Your certifications: AWS SAA Certified | ISO 27001 | NIST | GDPR
+  Your certifications: AWS Certified | ISO 27001 | NIST | GDPR
 
 ──────────────────────────────────────────────────────────
   STEP 2 of 3 — CLIENT DETAILS
