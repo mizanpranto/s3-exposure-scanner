@@ -191,24 +191,7 @@ python generate_demo.py
 
 This generates a realistic report using mock data for a fictional fintech company — 8 buckets, 51 findings, same format as a real scan.
 
----
 
-## 💼 How This Fits Your Consulting Workflow
-
-```
-Client hires you for AWS Security Assessment
-              ↓
-You create a read-only IAM user in their account
-(takes 5 minutes — use the policy above)
-              ↓
-python scan.py → enter details → PDF generated
-              ↓
-Deliver PDF report to client
-              ↓
-Upsell: fix the findings as a retainer ($2K–$5K/mo)
-```
-
----
 
 ## 👤 About
 
